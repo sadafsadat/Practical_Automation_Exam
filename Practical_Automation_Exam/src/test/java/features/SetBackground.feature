@@ -1,5 +1,3 @@
-#Author: Abdullah Noori
-
 @SetBackground
 Feature: Changing BackGround colors
 

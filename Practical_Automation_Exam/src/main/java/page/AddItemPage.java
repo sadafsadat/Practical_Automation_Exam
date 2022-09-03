@@ -91,7 +91,7 @@ public class AddItemPage extends BasePage {
 	
 	public void addCategory() {
 		
-		AddCategoryField.sendKeys("AB Noori" + generatedNum);
+		AddCategoryField.sendKeys("Sadaf" + generatedNum);
 	}
 	
 	public void addCategorybutton() {

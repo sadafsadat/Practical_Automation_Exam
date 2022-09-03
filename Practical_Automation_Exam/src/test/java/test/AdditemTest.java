@@ -15,7 +15,7 @@ public class AdditemTest {
 	DashboardPage dashboardpage = PageFactory.initElements(driver, DashboardPage.class);
 	
 
-	String ItemName = "AB Noori" + generatedNum ;
+	String ItemName = "Sadaf" + generatedNum ;
 	String DueMonth = "Mar";
 	String DueYear = "2023";
 	String DueDate = "4";
